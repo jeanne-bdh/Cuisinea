@@ -1,3 +1,3 @@
 # Cuisinea
 
-Projet étudiiant pour s'entraîner à coder un site web en PHP
+Projet étudiant pour s'entraîner à coder un site web en PHP
