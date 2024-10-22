@@ -1,5 +1,6 @@
 <?php
 require_once('lib/config.php');
+require_once('lib/pdo.php');
 
 // Pour mettre les items navbar en "active" de la page courante
 $currentPage = basename($_SERVER['SCRIPT_NAME']);
